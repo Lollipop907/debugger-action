@@ -4,5 +4,5 @@ jobs:
   Ubuntu:
     runs-on: ubuntu-latest
     steps:
-    - name: Setup Debug 1
+    - name: Setup Debug 2
       uses: Lollipop907/debugger-action@master
